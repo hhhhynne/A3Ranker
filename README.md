@@ -9,16 +9,14 @@ A3 Ranker is a web application designed to track and rank table tennis players u
 - **Match Tracking**: Record match results and update player statistics
 - **Win-Loss Record**: Track each player's win-loss statistics
 - **Real-time Updates**: Firebase integration for real-time data synchronization
-- **Responsive Design**: Works on desktop and mobile devices
 
 ## Technology Stack
 
 - **Frontend Framework**: [Next.js 15](https://nextjs.org/)
-- **Styling**: [Tailwind CSS](https://tailwindcss.com/) with [Tailwind Merge](https://github.com/dcastil/tailwind-merge)
-- **UI Components**: [shadcn/ui](https://ui.shadcn.com/) with Radix UI primitives
+- **Styling**: [Tailwind CSS](https://tailwindcss.com/) 
+- **UI Components**: [shadcn/ui](https://ui.shadcn.com/) 
 - **Database & Authentication**: [Firebase](https://firebase.google.com/) (Firestore & Auth)
 - **Form Handling**: React Hook Form with Zod validation
-- **State Management**: React hooks with context providers
 - **Data Tables**: TanStack Table for displaying player rankings
 - **Animations**: Framer Motion
 
